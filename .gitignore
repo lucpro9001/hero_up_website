@@ -1,0 +1,16 @@
+# ==== KHÔNG BAO GIỜ commit file bí mật vào repo public này ====
+# (chỉ cần 1 lần lỡ tay là secret nằm vĩnh viễn trong lịch sử git của repo công khai)
+*.keystore
+*.jks
+*.pepk
+export_presets.cfg
+.env
+.env.*
+*.pem
+*.p12
+
+# ==== Rác hệ điều hành / editor ====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

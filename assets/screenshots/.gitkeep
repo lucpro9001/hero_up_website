@@ -1,0 +1,7 @@
+Place game screenshots here (PNG/JPG), then replace the CSS phone mockup
+in index.html with <img> tags, e.g.:
+
+  <img src="assets/screenshots/battle.png" alt="Hero Up battle screen">
+
+Suggested set for the Play Store + website:
+  battle.png, heroes.png, equipment.png, orbs.png, boss.png
