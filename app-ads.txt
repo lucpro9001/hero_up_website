@@ -1,0 +1,6 @@
+# app-ads.txt for hero_up_website
+# Authorized digital sellers for Hero Up game
+# Format: advertising_domain.com, publisher_id, DIRECT/RESELLER, advertising_platform_id
+
+# Thay pub-XXXXXXXXXXXXXXXX bằng AdMob publisher ID thực tế của bạn
+google.com, pub-5151011466316509, DIRECT, f08c47fec0942fa0
